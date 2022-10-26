@@ -1,0 +1,143 @@
+{
+	"ringCount": 3,
+	"outputs": [
+		{
+			"startUniverse" : 0,
+			"IP" : "2.1.1.11"
+		},
+		{
+			"startUniverse" : 1,
+			"IP" : "2.1.1.12"
+		},
+		{
+			"startUniverse" : 2,
+			"IP" : "2.1.1.13"
+		},
+		{
+			"startUniverse" : 3,
+			"IP" : "2.1.1.14"
+		},
+		{
+			"startUniverse" : 4,
+			"IP" : "2.1.1.15"
+		},
+		{
+			"startUniverse" : 5,
+			"IP" : "2.1.1.16"
+		},
+		{
+			"startUniverse" : 6,
+			"IP" : "2.1.1.17"
+		},
+		{
+			"startUniverse" : 7,
+			"IP" : "2.1.1.18"
+		},
+		{
+			"startUniverse" : 8,
+			"IP" : "2.1.1.19"
+		}
+	],
+	"vividarray":[
+	{
+		"origin": [0.0,0.0,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring":0,
+		"output": 4,
+		"outputPosition" : 0,
+		"x" : 2,
+		"y" : 2
+	},
+	{
+		"origin": [-0.355,0.617,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring":1,
+		"output": 1,
+		"outputPosition" : 0,
+		"x" : 1,
+		"y" : 3
+	},
+	{
+		"origin": [-0.710,-0.0,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring": 1,
+		"output": 3,
+		"outputPosition" : 0,
+		"x" : 2,
+		"y" : 4
+	},
+	{
+		"origin": [-0.355,-0.617,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring": 1,
+		"output": 6,
+		"outputPosition" : 0,
+		"x" : 3,
+		"y" : 3
+	},
+	{
+		"origin": [0.355,-0.617,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring": 1,
+		"output": 7,
+		"outputPosition" : 0,
+		"x" : 3,
+		"y" : 1
+	},
+	{
+		"origin": [0.710,0.0,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring": 1,
+		"output": 5,
+		"outputPosition" : 0,
+		"x" : 2,
+		"y" : 0
+	},
+	{
+		"origin": [0.355,0.617,0.0],
+		"orient": [180.0,0.0,0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring": 2,
+		"output": 2,
+		"outputPosition" : 0,
+		"x" : 1,
+		"y" : 1
+	},
+	{
+		"origin": [0.0,1.232,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring" : 2,
+		"output": 0,
+		"outputPosition" : 0,
+		"x" : 0,
+		"y" : 2
+
+	},
+	{
+		"origin": [0.0,-1.232,0.0],
+		"orient": [180.0,0.0,0.0],
+		"scale": 1000.0,
+		"ppm": 1,
+		"ring": 2,
+		"output": 8,
+		"outputPosition" : 0,
+		"x" : 4,
+		"y" : 2
+	}
+]
+}
